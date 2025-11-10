@@ -1,28 +1,5 @@
 [
   {
-    "eventName": "ILUGC Monthly Meet - November 8",
-    "eventDescription": "ILUGC Monthly Meet - November 8",
-    "eventDate": "2025-11-08",
-    "eventTime": "03:00",
-    "eventVenue": "Classroom No.3, Aerospace Engineering, IITM · Chennai",
-    "eventLink": "https://register.ilugc.in",
-    "location": "Chennai",
-    "communityName": "India Linux User's Group Chennai",
-    "communityLogo": "https://i.ibb.co/bTtX0p3/ilugc-logo.png"
-  },
-  {
-    "eventName": "DevFest 2025 Chennai",
-    "eventDescription": "DevFest is one of the largest and most inclusive community-led technology conferences worldwide! Every year, Google Developer Groups host DevFests, where attendees explore developer tools, learn from Google Developer Experts, and connect with other tech enthusiasts from their local community.",
-    "eventDate": "2025-11-08",
-    "eventTime": "09:00",
-    "eventVenue": "IIT Madras Research Park, MGR Film City Road, Chennai, 600113",
-    "eventLink": "https://gdg.community.dev/events/details/google-gdg-chennai-presents-devfest-2025-chennai",
-    "location": "Chennai",
-    "communityName": "Google Developer Group Chennai",
-    "communityLogo": "https://i.ibb.co/ynkrJnD4/gdglogo-0229df09.png",
-    "paid": true
-  },
-  {
     "eventName": "Digital Dreamers Den (D3) Meetup #5",
     "eventDescription": "Digital Dreamers Den (D3) is a vibrant tech community that brings together AI Full-Stack Developers to build the future. We host events, workshops, and networking opportunities that connect talented engineers with cutting-edge technology and industry leaders.",
     "eventDate": "2025-11-22",
